@@ -1,1 +1,1 @@
-<img="ConexãoFeita.pnh"/>
+<img="ConexãoFeita.png"/>
